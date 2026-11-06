@@ -1,0 +1,7 @@
+torch>=2.3
+torchvision>=0.18
+numpy
+av>=12.0
+matplotlib
+scikit-learn
+pytorchvideo==0.1.5   # only for the X3D-M backbone

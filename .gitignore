@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/manifest_video.csv
+pretrained/
+workspace/
+results/
+logs/
+figures/
+paper_figures/
